@@ -68,4 +68,4 @@ Here are some key points about the changes brought about by ChatGPT:
 
 ## Reference
 
-![WIKIPEDIA ](https://en.wikipedia.org/wiki/ChatGPT#:~:text=ChatGPT%20is%20an%20artificial%2Dintelligence,supervised%20and%20reinforcement%20learning%20techniques.)
+ -[Google Support Reference](https://support.google.com/accounts/answer/27441?hl=en)
