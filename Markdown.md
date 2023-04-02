@@ -18,13 +18,13 @@ Here are some examples of Markdown syntax:
  * `Headings`:
  
          Heading 1:
-# `Ganesh`
+# `Ganesh`   by using # symbol
 
          Heading 2:
- ## `Ganesh`
+ ## `Ganesh` by using ## symbol
 
          Heading 3:
- ### `Ganesh`
+ ### `Ganesh` by using ### symbols
 
   These the the some of the example of heading files......
 
