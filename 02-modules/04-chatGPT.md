@@ -23,11 +23,11 @@
 
 
 ## History
-  - ChatGPT is a large language model developed by OpenAI, an artificial intelligence research laboratory based in San Francisco, California. OpenAI was founded in 2015 by a group of technology leaders, including Elon Musk, Sam Altman, Greg Brockman, and Ilya Sutskever, with the goal of advancing artificial intelligence in a safe and beneficial way.
+  - ChatGPT is a large language model developed by OpenAI, an artificial intelligence research laboratory based in San Francisco, California. OpenAI was founded in 2015 by a group of technology leaders, `including Elon Musk, Sam Altman, Greg Brockman, and Ilya Sutskever, with the goal of advancing artificial intelligence in a safe and beneficial way.`
 
-  - The development of ChatGPT is based on the GPT (Generative Pre-trained Transformer) architecture, which is a type of deep neural network that has been pre-trained on a large corpus of text data. The first version of GPT was released by OpenAI in June 2018, and it quickly gained popularity among researchers and developers due to its high performance in a variety of natural language processing tasks.
+  - The development of ChatGPT is based on the GPT (Generative Pre-trained Transformer) architecture, which is a type of deep neural network that has been pre-trained on a large corpus of text data. `The first version of GPT was released by OpenAI in June 2018`, and it quickly gained popularity among researchers and developers due to its high performance in a variety of natural language processing tasks.
 
-  - In June 2020, OpenAI released a new version of GPT called GPT-3, which is currently the largest and most powerful language model in existence. GPT-3 has 175 billion parameters and has been trained on a diverse range of text data, making it capable of generating human-like language and completing a wide range of natural language tasks.
+  - In June 2020, OpenAI released a new version of GPT called GPT-3, which is currently the largest and most powerful language model in existence. `GPT-3 has 175 billion parameters` and has been trained on a diverse range of text data, making it capable of generating human-like language and completing a wide range of natural language tasks.
 
   - ChatGPT is based on the GPT-3 architecture and has been fine-tuned on a specific set of tasks related to conversational AI. It is designed to understand natural language inputs and generate human-like responses, making it useful for a variety of applications, such as customer service, chatbots, and language translation.
 
