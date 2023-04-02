@@ -68,4 +68,4 @@ Here are some key points about the changes brought about by ChatGPT:
 
 ## Reference
 
- -[Google Support Reference](https://support.google.com/accounts/search?q=chatgpt)
+  - [Google Support Reference](https://support.google.com/accounts/search?q=chatgpt)
