@@ -5,7 +5,7 @@
 ### Definition: `Markdown` is a lightweight markup language used for formatting plain text documents.
 -  It was created by `John Gruber` and `Aaron Swartz` in `2004`.
 
-- The  goal of making it easy to write and read structured documents without requiring extensive knowledge of HTML or other formatting languages.
+- The  goal of making it easy to write and read structured documents without requiring extensive knowledge of `HTML` or other formatting languages.
 
 Markdown uses simple syntax to indicate :
  1. Headings,
@@ -16,19 +16,26 @@ Markdown uses simple syntax to indicate :
  6. Code blocks and etc..
 
 
- Here are some examples of Heading Syntax:
+ Here are some examples of Headings syntax:
 
- * `Headings`:
+
+
+             # _Ganesh_
+             ## _Ganesh_
+             ### _Ganesh_
+             #### _Ganesh_
+             ##### _Ganesh_
+             ###### _Ganesh_
+
+
+## The output will be:
+# _Ganesh_
+## _Ganesh_
+### _Ganesh_
+#### _Ganesh_
+##### _Ganesh_
+###### _Ganesh_
  
-       Heading 1:
-# `Ganesh`
-
-       Heading 2:
- ## `Ganesh`
-
-         Heading 3:
- ### `Ganesh`.
-
 
       ...... These the the some of the example of heading files......
 
