@@ -5,7 +5,7 @@
 ### Definition: `Markdown` is a lightweight markup language used for formatting plain text documents.
 -  It was created by `John Gruber` and `Aaron Swartz` in `2004`.
 
-- The  goal of making it easy to write and read structured documents without requiring extensive knowledge of `HTML(Hyper Text Markup Language)` or other formatting languages.
+- The  goal of making it easy to write and read structured documents without requiring extensive knowledge of `HTML` or other formatting languages.
 
 Markdown uses simple syntax to indicate :
  1. Headings,
@@ -45,8 +45,8 @@ Markdown uses simple syntax to indicate :
 * `Strike through`
 
 `Markdown documents` can be easily converted to other formats like., 
-1. HTML, 
-2. PDF,
+1. HTML(Hyper Text Markup Language), 
+2. PDF(Portable Document Format),
 3. online converters. 
 
 This makes Markdown a popular choice for creating documentation, blogs, and other types of content that can be easily shared and published across different platforms.
@@ -198,6 +198,9 @@ or
      a. Item 1
      b. Item 2
      c. Item 3
+     
+     
+     
 #  `ReFerence:`
 
 ## I was referred from the Google & Youtube
