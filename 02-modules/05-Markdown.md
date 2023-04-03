@@ -16,7 +16,7 @@ Markdown uses simple syntax to indicate :
  6. Code blocks and etc..
 
 
- Here are some examples of Markdown syntax:
+ Here are some examples of Heading Syntax:
 
  * `Headings`:
  
