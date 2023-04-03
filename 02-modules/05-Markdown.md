@@ -99,28 +99,33 @@ Markdown uses a number of symbols to create formatting and structure in text. So
 - Markdown shows the writing format uniformly on all sorts of devices and is device independent.
 # - `Creating Table in the Markdown File`
 To create a table in a markdown file, you can use the following syntax:
-| Column 1 Header | Column 2 Header | Column 3 Header |
-| --------------- | --------------- | --------------- |
-| Row 1 Column 1  | Row 1 Column 2  | Row 1 Column 3  |
-| Row 2 Column 1  | Row 2 Column 2  | Row 2 Column 3  |
+
+
+
+        | Column 1 Header | Column 2 Header | Column 3 Header |
+        | --------------- | --------------- | --------------- |
+        | Row 1 Column 1  | Row 1 Column 2  | Row 1 Column 3  |
+        | Row 2 Column 1  | Row 2 Column 2  | Row 2 Column 3  |
 1.  The first row contains the headers for each column, separated by pipes `(|)` and enclosed in pipes at the beginning and end of the row. 
 2. The second row contains a series of dashes `(-)` separated by pipes to indicate the width of each column. The remaining rows contain the data for each row, also separated by pipes.
 
 You can customize the alignment of the columns by adding colons to the dashes in the second row. For example, `|:---|---:|:---:|` will align the first column to the left, the second column to the right, and the third column in the center.
 
 Here's an example:
-| Name     | Age | Gender |
-| -------- | --- | ------ |
-| Ganesh   | 19  | Male   |
-| Vivek    | 20  | Female |
-| Abdul    | 19  | Male   |
+
+
+           | Name     | Age | Gender |
+           | -------- | --- | ------ |
+           | Ganesh   | 19  | Male   |
+           | Vivek    | 20  | Female |
+           | Abdul    | 19  | Male   |
 This will produce a table like this:
 
--   `Name Age	Gender`
-- Ganesh  19	Male
-- Vivek   20	Female
-- Abdul   19	Male
-
+             Name     Age	    Gender
+        1.  Ganesh     19	     Male
+        2.  Vivek      20	     male
+        3.  Abdul      19	     Male
+        4.  Yamini     40       Female
 
 # `How to Upload Pictures in Markdown Files:` 
  To upload pictures in a markdown file, you can follow these steps:
