@@ -44,6 +44,8 @@ To install Git, you can follow these steps:
 
 - `Verify the installation:` After the installation is complete, open a terminal (or command prompt) and run the following command to verify that Git is installed:
 
+          git --version
+
           If Git is installed correctly, you should see a version number displayed in the terminal output.
           
 That's it! You now have Git installed on your system and are ready to start using it for version control and collaboration on your projects.
