@@ -38,12 +38,19 @@
 ![Gmail pics](https://user-images.githubusercontent.com/127955482/229838859-acfa5a1e-288d-4cc5-bceb-4eab0b4a9b38.png)
 
 - Click Create account.
+
+
+![Gmail pics](https://user-images.githubusercontent.com/127955482/229839469-c9a46b42-33b9-4d0d-a589-807d4b4a50df.jpg)
+
 - Enter your name.
 - In the "Username" field, enter a username.
 - Enter and confirm your password.
 - Tip: When you enter your password on mobile, the first letter isn't case sensitive.
+
+![Gmail pics 2](https://user-images.githubusercontent.com/127955482/229839408-1981ccc7-3976-4b16-a976-49387356c32c.jpg)
 - Click Next.
 - Optional: Add and verify a phone number for your account.
+
 - Click Next.
 
 
