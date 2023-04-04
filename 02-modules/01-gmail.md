@@ -51,6 +51,8 @@
 - Click Next.
 - Optional: Add and verify a phone number for your account.
 
+![gmail interface](https://user-images.githubusercontent.com/127955482/229841000-e4207836-c1fa-4f58-a519-52fc9e4867b0.jpg)
+
 - Click Next.
 
 
