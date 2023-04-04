@@ -103,7 +103,7 @@
 
 - 'Pull requests:' If you want to merge changes from one branch to another, you can create a pull request. This allows other developers to review your changes and give feedback before they are merged.
 
- These are just some of the basic steps to using GitHub. There are many other features and tools available on the platform, so it's worth exploring and learning more about them as you become more comfortable with using GitHub.
+ These are just some of the basic steps to using GitHub. There are many other features and tools available on the platform, so it's worth exploring and learning more     about them as you become more comfortable with using GitHub.
 
 ## ROLE IN CODING
 
