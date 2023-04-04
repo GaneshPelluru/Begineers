@@ -65,7 +65,14 @@ Here are some key points about the changes brought about by ChatGPT:
   - It is important to approach the use of ChatGPT with caution and responsibility, and to continue to evaluate and address potential risks and ethical considerations.
 
 
+## Interface
 
+![2023-04-04](https://user-images.githubusercontent.com/127955482/229842930-60aecba9-9647-4b1b-8ed8-802088174b59.png)
+
+
+## Sample or Example 
+
+![2023-04-04 (1)](https://user-images.githubusercontent.com/127955482/229842965-393e861e-7915-4a97-a90b-03fcca648976.png)
 
 
 ## Reference
