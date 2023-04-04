@@ -33,7 +33,10 @@
 
 
 ## How to create Gmail
-- Go to the Google Account sign in page.
+- Go to the Google Account sign in page. 
+
+![Gmail pics](https://user-images.githubusercontent.com/127955482/229838859-acfa5a1e-288d-4cc5-bceb-4eab0b4a9b38.png)
+
 - Click Create account.
 - Enter your name.
 - In the "Username" field, enter a username.
