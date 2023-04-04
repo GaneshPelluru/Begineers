@@ -95,4 +95,4 @@ These are just a few examples of the many ways that you can use Git. Git is a po
 
 ## Reference
 
--  [ CHAT GTP SERVICE ](https://chat.openai.com/chat)
+-  [ CHATGTP SERVICE ](https://chat.openai.com/chat)
