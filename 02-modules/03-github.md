@@ -89,19 +89,19 @@
 
  GitHub is a popular platform for version control and collaboration on software development projects. Here are some general steps on how to use GitHub:
 
-- 'Create an account:' Go to github.com and create a free account.
+- `Create an account:` Go to github.com and create a free account.
 
-- 'Create a repository:' Once you have an account, you can create a repository by clicking on the "New" button on the left-hand side of your dashboard. Give your repository a name and a brief description, choose whether it should be public or private, and select any other options you want.
+- `Create a repository:` Once you have an account, you can create a repository by clicking on the "New" button on the left-hand side of your dashboard. Give your repository a name and a brief description, choose whether it should be public or private, and select any other options you want.
 
-- 'Add files to your repository:' You can add files to your repository in a number of ways, including uploading files directly to GitHub, using the command line, or using a GUI application. Once your files are in your repository, you can track changes and collaborate with others.
+- `Add files to your repository:` You can add files to your repository in a number of ways, including uploading files directly to GitHub, using the command line, or using a GUI application. Once your files are in your repository, you can track changes and collaborate with others.
 
-- 'Make commits:' Commits are snapshots of changes to your code. You can make commits in a number of ways, such as using the command line or a GUI application. Each commit should have a clear message describing what changes you made.
+- `Make commits:` Commits are snapshots of changes to your code. You can make commits in a number of ways, such as using the command line or a GUI application. Each commit should have a clear message describing what changes you made.
 
-- 'Create branches:' Branches allow you to work on different features or versions of your code without affecting the main branch. You can create branches using the command line or a GUI application.
+- `Create branches:` Branches allow you to work on different features or versions of your code without affecting the main branch. You can create branches using the command line or a GUI application.
 
-- 'Collaborate with others:' GitHub allows you to collaborate with other developers on your code. You can invite collaborators to your repository and review and merge their changes.
+- `Collaborate with others:` GitHub allows you to collaborate with other developers on your code. You can invite collaborators to your repository and review and merge their changes.
 
-- 'Pull requests:' If you want to merge changes from one branch to another, you can create a pull request. This allows other developers to review your changes and give feedback before they are merged.
+- `Pull requests:` If you want to merge changes from one branch to another, you can create a pull request. This allows other developers to review your changes and give feedback before they are merged.
 
  These are just some of the basic steps to using GitHub. There are many other features and tools available on the platform, so it's worth exploring and learning more     about them as you become more comfortable with using GitHub.
 
