@@ -47,7 +47,7 @@
 - Enter and confirm your password.
 - Tip: When you enter your password on mobile, the first letter isn't case sensitive.
 
-![Gmail pics 2](https://user-images.githubusercontent.com/127955482/229839408-1981ccc7-3976-4b16-a976-49387356c32c.jpg)
+
 - Click Next.
 - Optional: Add and verify a phone number for your account.
 
