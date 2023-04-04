@@ -7,7 +7,7 @@
 
 ## History
 
-Git is a version control system that was created by Linus Torvalds in 2005. Torvalds, who is best known as the creator of the Linux operating system, developed Git as a replacement for the proprietary version control system BitKeeper, which he had been using to manage the Linux kernel source code
+Git is a `version control system` that was created by `Linus Torvalds` in 2005. Torvalds, who is best known as the creator of the `Linux operating system`, developed Git as a replacement for the proprietary version control system `BitKeeper`, which he had been using to manage the `Linux kernel source code`.
 
 The development of Git was motivated by a number of factors, including the need for a distributed version control system that could handle large and complex projects, the desire for a system that was free and open-source, and the frustration of working with the limitations of existing version control systems.
 
