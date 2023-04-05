@@ -140,6 +140,7 @@ Here's an example:
            | Ganesh   | 19  | Male   |
            | Vivek    | 20  | Female |
            | Abdul    | 19  | Male   |
+           | Yamini   | 40  | Female |
 This will produce a table like this:
 
              Name     Age	    Gender
