@@ -91,7 +91,8 @@ Markdown uses a number of symbols to create formatting and structure in text. So
 - `: Used to create inline code. Surround code with backticks to indicate that it should be displayed as code.
 
 - The clear Picture about the symbolls are
-    - - 
+    - - ![symbolls of markdown](https://user-images.githubusercontent.com/128490912/230100643-e63667eb-091d-4383-98a2-3c7530c6aa42.jpg)
+
 # `Creating a Markdown file:`
 - These are just some of the symbols used in Markdown. There are many more, including symbols for creating tables, images, and more.
 - Any text editor may be used to create a Markdown file, which is a straightforward procedure. These are the actions:
