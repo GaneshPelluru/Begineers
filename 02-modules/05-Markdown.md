@@ -1,6 +1,21 @@
-# `Markdown`
-## `OverView:`
+# `MARKDOWN`
 
+
+
+
+## CONTENTS:
+1. Overview
+2. Symbolls
+3. Purpose of markdown file
+4. Markdown file was not created
+5. Creating Tables
+6. Uploading pictures
+7. Markdown Lists
+8. References
+
+
+
+## `OverView:`
 
 ### Definition: `Markdown` is a lightweight markup language used for formatting plain text documents.
 -  It was created by `John Gruber` and `Aaron Swartz` in `2004`.
@@ -119,6 +134,15 @@ Markdown uses a number of symbols to create formatting and structure in text. So
 
 - Without using an official text editor or HTML tags, markdown is a simple markup language that may be used with plain text to add formatting elements `(headings, bulleted lists, and Links)`. 
 - Markdown shows the writing format uniformly on all sorts of devices and is device independent.
+## What will happen if Markdown file is not Created?
+- The text that was meant to be written in the Markdown format would have to be produced in a different format or style if a Markdown file had not been generated. With the use of the simple markup language known as markdown, text may be easily formatted without the use of intricate HTML code. Without Markdown, formatting the text would need either manual intervention in the form of HTML or the usage of another markup language.
+- Lack of a Markdown file may make it more difficult to alter or maintain information that was intended for online publication. Markdown documents are simple to edit, change, and convert to HTML or other forms. 
+- Markdown documents are simple to edit, change, and convert to HTML or other forms. Any modifications to the content would have to be done directly in the HTML code, which can take longer and be more error-prone.
+
+
+- - In conclusion, although while the development of content is not always prevented by the lack of a Markdown file, it may nevertheless be more challenging and inefficient, especially if the information is meant for online publis
+
+
 # - `Creating Table in the Markdown File`
 To create a table in a markdown file, you can use the following syntax:
 
