@@ -156,14 +156,15 @@ This will produce a table like this:
 
 2. In the markdown file, use the following syntax to insert the image:
 
-- [Alt Text](https://www.freepik.com/premium-vector/cute-cat-meowing-while-standing_23470533.htm#query=cat%20clipart&position=5&from_view=keyword&track=ais)
-- Replace [the URL](https://www.freepik.com/premium-vector/cute-cat-meowing-while-standing_23470533.htm#query=cat%20clipart&position=5&from_view=keyword&track=ais) with the path to the image file, relative to the markdown file. If the image file is in the same directory as the markdown file, you can simply use the filename.
+- !Alt text(![Cat Image](https://user-images.githubusercontent.com/128490912/230095899-74f98024-4e02-43a7-8400-990aefb73463.jpg)
+ with the path to the image file, relative to the markdown file. If the image file is in the same directory as the markdown file, you can simply use the filename.
 
 - Optionally, you can add alt text to the image by replacing Alt Text with a brief description of the image. This is helpful for users who use screen readers or who have images disabled.
 - - Here's an example:
 
 - ![A cute cat](cat.png)
-This will insert the [the URL](https://www.freepik.com/premium-vector/cute-cat-meowing-while-standing_23470533.htm#query=cat%20clipart&position=5&from_view=keyword&track=ais) located in the same directory as the markdown file, with the alt text `"A cute cat"`.
+This will insert the ![Cat Image](https://user-images.githubusercontent.com/128490912/230095899-74f98024-4e02-43a7-8400-990aefb73463.jpg)
+ located in the same directory as the markdown file, with the alt text `"A cute cat"`.
 
 Note that some markdown editors or platforms may have specific ways of uploading images. For example, GitHub allows you to drag and drop images into the text editor, and it will automatically upload them and generate the appropriate syntax for you.
 # `What are the Markdown Lists:`
