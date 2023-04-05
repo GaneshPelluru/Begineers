@@ -61,8 +61,6 @@ This makes Markdown a popular choice for creating documentation, blogs, and othe
 ## `Symbols used for Creating Markdown file:`
 Markdown uses a number of symbols to create formatting and structure in text. Some of the most commonly used symbols in Markdown include:
 
-## `Backslash masking:`
-Besides the specific characters involved in HTML, Markdown also uses certain symbols as markups. When you insert them, the parser will respond to them during conversion. This pertains to the following signs:
 
 1. Asterisk: *
 2. Hyphen: -
