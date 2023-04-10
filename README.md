@@ -9,7 +9,7 @@
   - [Git Commands](./02-modules/02-git.md)
   - [github.com](./02-modules/03-github.md)
   - [ChatGPT](./02-modules/04-chatGPT.md)
-  - [Markdown Tutorial](./02-modules/04-chatGPT.md)
+  - [Markdown Tutorial](./02-modules/05-Markdown.md)
 
 ## Reference
 
