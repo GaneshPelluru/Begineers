@@ -10,10 +10,11 @@
   - [github.com](./02-modules/03-github.md)
   - [ChatGPT](./02-modules/04-chatGPT.md)
   - [Markdown Tutorial](./02-modules/05-Markdown.md)
-  - [JSON[()
-  - [YAML]()
-  - [XML]()
-  - [GIT POD]()
-
+  - [JSON](https://github.com/GaneshPelluru/Begineers/blob/main/02-modules/06-JSON.md)
+  - [YAML](https://github.com/GaneshPelluru/Begineers/blob/main/02-modules/07-YAML.md)
+  - [GIT POD](https://github.com/GaneshPelluru/Begineers/blob/main/02-modules/08-GITPOD.md)
+  - [XML](https://github.com/GaneshPelluru/Begineers/blob/main/02-modules/09-XML.md)
+  
+  
 ## Reference
 
