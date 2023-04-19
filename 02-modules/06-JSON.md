@@ -15,6 +15,7 @@
    - Example
 
    - Reference
+  
 
 ## Overview
 -JSON (JavaScript Object Notation) is a `lightweight`, `text-based data interchange format`. 
@@ -49,7 +50,8 @@
  JavaScript also has a built in function for converting an object into a JSON string
  
           JSON.stringify()
-          
+ 
+ 
 
 ## JSON Syntax and Rules
 
