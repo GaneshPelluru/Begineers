@@ -41,6 +41,10 @@ Markdown uses simple syntax to indicate :
              #### _Ganesh_
              ##### _Ganesh_
              ###### _Ganesh_
+             
+             
+  <img width="203" alt="headings" src="https://user-images.githubusercontent.com/128490912/233767584-f384e3d3-3e11-4485-9f5c-b85c10367448.PNG">
+
 
 
 ## The output will be:
