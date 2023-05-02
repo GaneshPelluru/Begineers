@@ -11,6 +11,9 @@
  - The terminal
    -  What is the terminal or Gitpod line?
  - Source Platform
+ # Overall look for GitPod is
+      <img width="628" alt="gitpod" src="https://user-images.githubusercontent.com/128490912/235722550-836a3401-14eb-4b2b-96a4-44e414639b9d.PNG">
+
 
  ## _What is GitPod_ ##
 
