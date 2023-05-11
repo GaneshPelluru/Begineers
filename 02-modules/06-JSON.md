@@ -4,9 +4,9 @@
  
    - Overview
   
-   - What is JSON
+   - What is JSON?
   
-   - Why use JSON
+   - Why use JSON?
   
    - JSON Syntax and Rules
   
@@ -23,7 +23,7 @@
 - JSON is composed of `key-value pairs`, where the keys are always strings and the values can be a variety of data types, including `strings`, `numbers`, `booleans`, `arrays`, and other JSON objects.
 
 
-## What is JSON
+## What is JSON?
 
  - JSON stands for `JavaScript Object Notation`.
  
@@ -37,7 +37,7 @@
 
 
 
-## Why use JSON
+## Why use JSON?
 
  The JSON formate is syntactically similar to the code for creating JavaScript objects. Because of this, a JavaScript program can easily convert JSON data into JavaScript objects.
  
@@ -101,6 +101,9 @@ In JSON, string values must be written with `double quotes`.
                 "isMarried": false,
                 "hobbies": ["reading", "traveling","cooking"]
               }
+
+
+"C:\Users\Rajya Lakshmi\OneDrive\Pictures\Screenshots\Screenshot (20).png"
 
 JSON arrays are ordered lists of values enclosed in square brackets, separated by commas. For example:
 
