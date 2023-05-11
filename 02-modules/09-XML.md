@@ -53,7 +53,7 @@ XML is widely used in web services, data exchange, and document formats such as 
                <price>12.99</price>
              </book>
 
-![Screenshot (17)](https://github.com/GaneshPelluru/Begineers/assets/129501298/87fd33c9-77ef-4bfe-b550-9cfbf023e01f)
+![Screenshot (18)](https://github.com/GaneshPelluru/Begineers/assets/129501298/87fd33c9-77ef-4bfe-b550-9cfbf023e01f)
 
 In this example, the XML document starts with a prolog that specifies the version of XML being used (1.0) and the character encoding (UTF-8). The root element is "book", and it contains child elements for the title, author, publisher, year, and price of the book. Each element is enclosed in angle brackets and is either an opening tag (e.g.`<title>`) or a closing tag (e.g.`</title>`). The text between the opening and closing tags is the value of the element. Attributes can also be included within the opening tag of an element, using the format `attribute="value"`.
 
