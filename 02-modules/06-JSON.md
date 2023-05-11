@@ -103,7 +103,8 @@ In JSON, string values must be written with `double quotes`.
               }
 
 
-"C:\Users\Rajya Lakshmi\OneDrive\Pictures\Screenshots\Screenshot (20).png"
+
+![Screenshot (20)](https://github.com/GaneshPelluru/Begineers/assets/129501298/93c6395a-79df-4f30-b29c-b8b26443db87)
 
 JSON arrays are ordered lists of values enclosed in square brackets, separated by commas. For example:
 
