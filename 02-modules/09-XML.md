@@ -94,7 +94,7 @@ There are several merits of using XML (Extensible Markup Language)
 
 - Wide industry adoption: XML has been widely adopted in many industries and domains, including web services, document management, scientific data exchange, and electronic publishing. This makes it a proven and reliable technology for data exchange and interoperability.
 
-### Demerits og XML:
+### Demerits of XML:
 
 While XML (Extensible Markup Language) has many merits, it also has some potential demerits
 
