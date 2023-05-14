@@ -70,7 +70,7 @@ JSON has continued to evolve over the years, with new features and updates being
 
 The syntax is a subset of the JavaScript syntax. Code for reading and generating JSON exists in many programming languages
 
-### rules:
+### Rules:
 
 JSON syntex is derived from JavaScript object notation, but the JSON formate is text only.
 
