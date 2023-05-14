@@ -3,6 +3,8 @@
 ##  Context
  
    - Overview
+
+   - History
   
    - What is JSON?
   
@@ -21,6 +23,9 @@
 - JSON (JavaScript Object Notation) is a `lightweight`, `text-based data interchange format`. 
 - It is easy for humans to read and write and easy for machines to parse and generate. JSON is a common format for `sending and receiving` data between web services and applications.
 - JSON is composed of `key-value pairs`, where the keys are always strings and the values can be a variety of data types, including `strings`, `numbers`, `booleans`, `arrays`, and other JSON objects.
+
+
+## History:
 
 
 ## What is JSON?
