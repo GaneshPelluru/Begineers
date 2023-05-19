@@ -135,36 +135,36 @@ JSON data can be used in a wide range of applications, including web APIs, datab
 
 JSON (JavaScript Object Notation) is a lightweight and easy-to-parse format for exchanging data between applications. Some of the merits of JSON include:
 
-- Simple syntax: JSON has a simple syntax that is easy for both humans and machines to read and write. This makes it a popular choice for data exchange between web applications and services.
+- `_Simple syntax_` : JSON has a simple syntax that is easy for both humans and machines to read and write. This makes it a popular choice for data exchange between web applications and services.
 
-- Small file size: JSON files are typically smaller than XML files, which can be an advantage in applications that require frequent data transfer, particularly over networks with limited bandwidth.
+- `_Small file size_`: JSON files are typically smaller than XML files, which can be an advantage in applications that require frequent data transfer, particularly over networks with limited bandwidth.
 
-- Wide language support: JSON is supported by many programming languages, including JavaScript, Python, Ruby, and PHP, among others. This makes it a versatile and widely adopted technology.
+- `_Wide language support_`: JSON is supported by many programming languages, including JavaScript, Python, Ruby, and PHP, among others. This makes it a versatile and widely adopted technology.
 
-- Easy to convert to objects: JSON data can be easily converted to native objects in most programming languages, making it easy to work with and integrate into applications.
+- `_Easy to convert to objects_`: JSON data can be easily converted to native objects in most programming languages, making it easy to work with and integrate into applications.
 
-- Support for arrays: JSON supports arrays, which can be useful for representing lists of data or for storing multiple values with the same name.
+- `_Support for arrays_`: JSON supports arrays, which can be useful for representing lists of data or for storing multiple values with the same name.
 
-- Human-readable: Like XML, JSON is human-readable, meaning that it can be easily understood and edited by humans using a simple text editor. This makes it easy to view and modify data, and also facilitates collaboration between developers and other stakeholders.
+- `_Human-readable_`: Like XML, JSON is human-readable, meaning that it can be easily understood and edited by humans using a simple text editor. This makes it easy to view and modify data, and also facilitates collaboration between developers and other stakeholders.
 
 Overall, JSON offers a lightweight, efficient, and widely supported format for exchanging data between applications, particularly in the web development space.
 
 
-### Demerits of JSON:
+### `Demerits of JSON`:
 
 While JSON (JavaScript Object Notation) has many merits, it also has some potential demerits
 
-- Limited data typing: JSON is a loosely typed language, which means that it does not provide explicit data typing. This can make it difficult to ensure the integrity of data and to enforce constraints on the data, particularly in large or complex applications.
+- `Limited data typing`: JSON is a loosely typed language, which means that it does not provide explicit data typing. This can make it difficult to ensure the integrity of data and to enforce constraints on the data, particularly in large or complex applications.
 
-- Limited support for comments: JSON does not support comments, which can make it difficult to document and annotate code or data. This can be a problem for larger or more complex applications where documentation is critical.
+- `Limited support for comments`: JSON does not support comments, which can make it difficult to document and annotate code or data. This can be a problem for larger or more complex applications where documentation is critical.
 
-- No schema enforcement: Unlike XML, JSON does not enforce schema validation, which means that there is no way to ensure that the data conforms to a specific schema or structure. This can be problematic for applications that require strict validation or that rely on consistent data structures.
+- `No schema enforcement`: Unlike XML, JSON does not enforce schema validation, which means that there is no way to ensure that the data conforms to a specific schema or structure. This can be problematic for applications that require strict validation or that rely on consistent data structures.
 
-- No support for binary data: Like XML, JSON is primarily designed for text-based data, which means that it may not be the best choice for applications that require efficient handling of binary data, such as images, audio files, or video.
+- `No support for binary data`: Like XML, JSON is primarily designed for text-based data, which means that it may not be the best choice for applications that require efficient handling of binary data, such as images, audio files, or video.
 
-- Limited extensibility: JSON has limited extensibility compared to XML, which means that it may not be the best choice for applications that require a high degree of customization or flexibility in data representation.
+- `Limited extensibility`: JSON has limited extensibility compared to XML, which means that it may not be the best choice for applications that require a high degree of customization or flexibility in data representation.
 
-- No support for namespaces: Unlike XML, JSON does not support namespaces, which can make it difficult to differentiate between data from different sources or to ensure consistency across different data sources.
+- `No support for namespaces`: Unlike XML, JSON does not support namespaces, which can make it difficult to differentiate between data from different sources or to ensure consistency across different data sources.
 
 Overall, while JSON is a popular and widely used data exchange format, it has some limitations that may make it less suitable for certain applications or use cases.
 
