@@ -11,6 +11,11 @@
  - The terminal
    -  What is the terminal or Gitpod line?
  - Source Platform
+
+
+
+
+
  # Overall look for GitPod is
   <img width="628" alt="gitpod" src="https://user-images.githubusercontent.com/128490912/235722550-836a3401-14eb-4b2b-96a4-44e414639b9d.PNG">
 
@@ -132,11 +137,44 @@ This is what Tailscale is made for ✨![gitpod-workspaces-with-tailscale](https:
 
 
 
-Connect multiple workspaces on Gitpod using Tailscale
-Establish secure tunnel using Tailscale
-Connecting multiple workspaces together with Tailscale
-We can run Tailscale in each of our Gitpod workspaces, which will make them part of your “tailnet”, a secure VPN consisting of your machines that can access each other. Traffic over your “tailnet” is fully end-to-end encrypted, with each workspace having its private key, so anyone, not even Tailscale, is capable of reading the traffic.
+#  `Running  project on Gitpod`
 
-In Gitpod, each workspace can log into Tailscale and receive a list of secure IP addresses of other workspaces connected to your “tailnet”. It is only possible to connect to these IPs from machines running Tailscale, which can be your workspaces or your local machines.
+To run a project on Gitpod, you need to follow these steps:
 
-Tailscale comes pre-installed with gitpod/workspace-full, Gitpod’s base image for workspaces. So if you are using the default image or a custom docker image based on workspace-full, you are ready to go 🚀; else, you will need to add instructions to install Tailscale into your workspace.
+1. `Create a Git repository`: If you haven't already, create a Git repository for your project. You can either create a new repository on a Git hosting service like GitHub or GitLab, or you can use an existing repository.
+
+2. `Install the Gitpod browser extension`: Gitpod provides a browser extension that allows you to easily open your project in a Gitpod workspace. `Install the extension for your preferred browser from the Gitpod website`.
+
+3. `Open your project in Gitpod`: Once the browser extension is installed, navigate to your project's repository in your browser. You should see a "Gitpod" button or badge on the repository page. Click on it to open your project in a Gitpod workspace.
+
+4. `Configure your workspace`: Gitpod will open a new workspace with a pre-configured development environment. It will automatically install the necessary dependencies based on the configuration files in your project, such as package.json for Node.js projects or requirements.txt for Python projects.
+
+5. `Start the project`: Once the workspace is ready, you can start your project by running the appropriate commands. These commands will depend on your project's setup and configuration. Typically, you'll use commands like npm start, python app.py, or ./gradlew run to start your application.
+
+6. `Access your project`: Gitpod provides a fully functional development environment in the browser. You can access your project by opening a new browser tab within the Gitpod workspace. Any changes you make to your code will be automatically saved and can be committed to your Git repository.
+
+That's it! You're now running your project on Gitpod. You can continue development, make changes, and test your application within the Gitpod workspace. Remember to commit and push your changes to your Git repository as you progress with your project.
+
+
+##  What is the terminal or Gitpod line?
+
+   - The terminal or command line in Gitpod is where you can enter commands to interact with your project and the Gitpod environment. 
+   - It is typically located at the bottom of the workspace interface and provides a command-line interface (CLI) within the browser environment.
+   - To use the terminal in Gitpod, follow these steps:
+   1.  Open your project in Gitpod,
+   2.  click on the terminal to activate it, or use the keyboard shortcut Ctrl+ backtick ().
+   3.  Enter commands into the terminal and press Enter to execute them. 
+   
+   The `terminal also supports various keyboard shortcuts and auto-completion`, which can make your workflow more efficient. 
+   
+   It is important to note that the specific commands you'll use in the terminal depend on your project's setup and requirements.
+
+
+   ## Source Platform
+
+   - Chargpt  [https://chat.openai.com/] 
+  - Gitpod  [https://gitpod.io/]
+
+   If you are ready go through the above gitpod link to for generate or code spaces....
+
+                                   _THE END_
