@@ -107,6 +107,7 @@ A case for working with multiple repositories at a time
 A typical architecture these days is server-side rendering (SSR). You generate the view by calling backend services on the frontend server instead of calling your API from client devices. If you develop on your local machine, two repositories will be open in two IDE windows. Every service can communicate with each other as they are all running on the same machine.
 
 ![locahost-ssr](https://github.com/GaneshPelluru/Begineers/assets/128490912/55787227-55ba-4f5b-ba30-db0735e9e570)
+                                             Local setup
 
 
 Multiple services can communincate with each-other when running on the same machine
