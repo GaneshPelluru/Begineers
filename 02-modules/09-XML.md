@@ -114,9 +114,9 @@ While XML (Extensible Markup Language) has many merits, it also has some potenti
 
 ## Reference:
 
-[ CHATGTP SERVICE ](https://chat.openai.com/chat)
+- [ CHATGTP SERVICE ](https://chat.openai.com/chat)
 
-[ W3SCHOOL SERVICE ](https://www.w3schools.com)
+- [ W3SCHOOL SERVICE ](https://www.w3schools.com)
 
 
 
