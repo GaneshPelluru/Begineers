@@ -1,48 +1,46 @@
-# `MARKDOWN`
+# 📝 **Markdown Guide**
+
+---
+
+## 📚 Contents
+
+1. [Overview](#overview)
+2. [Symbols in Markdown](#symbols-in-markdown)
+3. [Purpose of Markdown](#purpose-of-markdown)
+4. [What If Markdown File Is Not Created?](#what-if-markdown-file-is-not-created)
+5. [Creating Tables](#creating-tables)
+6. [Uploading Images](#uploading-images)
+7. [Markdown Lists](#markdown-lists)
+8. [References](#references)
+
+---
+
+## 🔍 Overview
+
+### ➤ What is Markdown?
+
+**Markdown** is a lightweight markup language for formatting plain text.  
+Created by **John Gruber** and **Aaron Swartz** in **2004**, it aims to make text formatting readable and easy to write.
+
+### ✅ Common Features:
+- Headings
+- Emphasis (Bold, Italic)
+- Links and Images
+- Lists
+- Code blocks
+
+---
+
+### 🎯 Heading Examples
+
+# _Ganesh_
+## _Ganesh_
+### _Ganesh_
+#### _Ganesh_
+##### _Ganesh_
+###### _Ganesh_    
 
 
-
-
-## CONTENTS:
-1. Overview
-2. Symbolls
-3. Purpose of markdown file
-4. Markdown file was not created
-5. Creating Tables
-6. Uploading pictures
-7. Markdown Lists
-8. References
-
-
-
-## `OverView:`
-
-### Definition: `Markdown` is a lightweight markup language used for formatting plain text documents.
--  It was created by `John Gruber` and `Aaron Swartz` in `2004`.
-
-- The  goal of making it easy to write and read structured documents without requiring extensive knowledge of `HTML` or other formatting languages.
-
-Markdown uses simple syntax to indicate :
- 1. Headings,
- 2. Emphasis,
- 3. Links,
- 4. Images, 
- 5. Lists,
- 6. Code blocks and etc..
-
-
- Here are some examples of Headings syntax:
-
-
-
-             # _Ganesh_
-             ## _Ganesh_
-             ### _Ganesh_
-             #### _Ganesh_
-             ##### _Ganesh_
-             ###### _Ganesh_
-             
-             
   <img width="203" alt="headings" src="https://user-images.githubusercontent.com/128490912/233767584-f384e3d3-3e11-4485-9f5c-b85c10367448.PNG">
 
 
